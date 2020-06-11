@@ -1,0 +1,12 @@
+VAR GAME Tic Tac Toe 	 Timer: 6/6/2020 2:03:56 AM
+Player A move to the slot (0, 0)
+Player B move to the slot (0, 1)
+Player A move to the slot (0, 1)
+Player B move to the slot (0, 2)
+Player A move to the slot (0, 1)
+Player B move to the slot (1, 0)
+Player A move to the slot (0, 1)
+Player B move to the slot (1, 1)
+Player A move to the slot (0, 1)
+Player B move to the slot (1, 2)
+Player B is THE WINNER !!!!
